@@ -10,10 +10,15 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "TrashCraft",
+  "name": "TrashCraftsss",
   "version": "1.0.0",
   "author": "AtakkuDev",
   "files": [
+    {
+      "projectID": 253043,
+      "fileID": 3064112,
+      "required": true
+    },
     {
       "projectID": 225643,
       "fileID": 2846950,
@@ -35,6 +40,11 @@
       "required": true
     },
     {
+      "projectID": 228404,
+      "fileID": 2844115,
+      "required": true
+    },
+    {
       "projectID": 222789,
       "fileID": 3025806,
       "required": true
@@ -50,13 +60,13 @@
       "required": true
     },
     {
-      "projectID": 302390,
-      "fileID": 2960570,
+      "projectID": 233342,
+      "fileID": 3068499,
       "required": true
     },
     {
-      "projectID": 233342,
-      "fileID": 3068499,
+      "projectID": 302390,
+      "fileID": 2960570,
       "required": true
     },
     {
@@ -80,13 +90,13 @@
       "required": true
     },
     {
-      "projectID": 248425,
-      "fileID": 2858569,
+      "projectID": 322131,
+      "fileID": 2818003,
       "required": true
     },
     {
-      "projectID": 322131,
-      "fileID": 2818003,
+      "projectID": 248425,
+      "fileID": 2858569,
       "required": true
     },
     {
@@ -110,11 +120,6 @@
       "required": true
     },
     {
-      "projectID": 311322,
-      "fileID": 2824169,
-      "required": true
-    },
-    {
       "projectID": 223094,
       "fileID": 2482481,
       "required": true
@@ -122,6 +127,11 @@
     {
       "projectID": 299540,
       "fileID": 2706111,
+      "required": true
+    },
+    {
+      "projectID": 311322,
+      "fileID": 2824169,
       "required": true
     },
     {
@@ -135,13 +145,13 @@
       "required": true
     },
     {
-      "projectID": 230497,
-      "fileID": 2450900,
+      "projectID": 262692,
+      "fileID": 2764292,
       "required": true
     },
     {
-      "projectID": 262692,
-      "fileID": 2764292,
+      "projectID": 230497,
+      "fileID": 2450900,
       "required": true
     },
     {
@@ -190,13 +200,13 @@
       "required": true
     },
     {
-      "projectID": 349840,
-      "fileID": 2842559,
+      "projectID": 32274,
+      "fileID": 2916002,
       "required": true
     },
     {
-      "projectID": 32274,
-      "fileID": 2916002,
+      "projectID": 349840,
+      "fileID": 2842559,
       "required": true
     },
     {
@@ -285,13 +295,13 @@
       "required": true
     },
     {
-      "projectID": 256717,
-      "fileID": 2666198,
+      "projectID": 238222,
+      "fileID": 3040523,
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 3040523,
+      "projectID": 256717,
+      "fileID": 2666198,
       "required": true
     },
     {
@@ -320,13 +330,18 @@
       "required": true
     },
     {
+      "projectID": 261793,
+      "fileID": 2585558,
+      "required": true
+    },
+    {
       "projectID": 226447,
       "fileID": 2477566,
       "required": true
     },
     {
-      "projectID": 261793,
-      "fileID": 2585558,
+      "projectID": 244258,
+      "fileID": 3087799,
       "required": true
     },
     {
@@ -345,13 +360,13 @@
       "required": true
     },
     {
-      "projectID": 230976,
-      "fileID": 2463272,
+      "projectID": 223852,
+      "fileID": 2952606,
       "required": true
     },
     {
-      "projectID": 223852,
-      "fileID": 2952606,
+      "projectID": 230976,
+      "fileID": 2463272,
       "required": true
     },
     {
@@ -362,21 +377,6 @@
     {
       "projectID": 241665,
       "fileID": 3085917,
-      "required": true
-    },
-    {
-      "projectID": 224641,
-      "fileID": 2861573,
-      "required": true
-    },
-    {
-      "projectID": 228404,
-      "fileID": 2844115,
-      "required": true
-    },
-    {
-      "projectID": 233105,
-      "fileID": 2745846,
       "required": true
     }
   ],
