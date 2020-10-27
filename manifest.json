@@ -11,9 +11,19 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "TrashCraftsss",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "AtakkuDev",
   "files": [
+    {
+      "projectID": 231951,
+      "fileID": 2676501,
+      "required": true
+    },
+    {
+      "projectID": 228816,
+      "fileID": 2699056,
+      "required": true
+    },
     {
       "projectID": 253043,
       "fileID": 3064112,
